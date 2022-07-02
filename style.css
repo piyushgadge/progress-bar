@@ -1,0 +1,171 @@
+body{
+    background-color:rgb(93, 205, 205);
+}
+/* progress-bar height */
+.pb{height: 30px;
+    
+}
+/* progress-bar height */
+.pb1{height: 50px;}
+/* progress-bar height */
+.pb2{height: 40px;}
+/* heading */
+.h{
+    margin-top: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    border-radius: 6px 45px;
+    border: 10px inset pink;
+    
+    color:rgb(62, 242, 30) ;
+    text-shadow: 3px 3px rgb(230, 51, 224);
+   box-shadow: 5px 5px 8px blue, 10px 10px 8px red, 15px 15px 8px green;
+}
+/* bg-colors */
+.c1{
+    width: 100%;
+    color: rgb(68, 240, 240);
+}
+.c2{
+    width: 90%;
+    color: rgb(116, 244, 148);
+    
+}
+.c3{
+    width: 80%;
+    color: rgb(116, 244, 148);
+}
+.c4{
+    width: 70%;
+    color:rgb(116, 244, 148);
+    
+}
+.c5{
+    width: 60%;
+    font-size: x-large;
+    text-shadow: 2px 2px rgb(240, 80, 62);
+
+    color:rgb(116, 244, 148);
+    
+}
+.c6{
+    width: 50%;
+    color:rgb(24, 9, 14);
+    
+}
+.c7{
+    width: 40%;
+    color: rgb(181, 29, 223);
+}
+.c8{
+    width: 30%;
+    color:rgb(223, 29, 103);
+
+   
+}
+/* custum-color*/
+.c11{
+    width: 100%;
+    color: rgb(68, 240, 240);
+    background-color: rgb(195, 142, 89);
+    
+}
+.c12{
+    width: 90%;
+    color:rgb(106, 37, 83);
+    background-color: rgb(189, 218, 26);
+
+    
+}
+.c13{
+    width: 30%;
+    color: black;
+    background-color: rgb(232, 66, 25);
+    
+}
+.c14{
+    width: 40%;
+    color: black;
+    background-color: rgb(15, 169, 221);
+    
+}
+.c15{
+    width: 60%;
+    color:  rgb(59, 189, 36);
+    text-shadow: 3px 2px rgba(100, 11, 225);
+    font-size: x-large;
+    background-color:rgb(231, 19, 22);
+    
+}
+.c16{
+    width: 50%;
+    color:rgb(116, 244, 148);
+    background-color: rgb(28, 48, 227);
+    
+}
+.c17{
+    width: 40%;
+    color: black;
+    background-color: rgb(166, 38, 46);
+    
+}
+.c18{
+    width: 30%;
+    color: rgb(21, 225, 79 );
+    background-color: rgb(41, 6, 90);
+   
+    
+}
+/* double progress-bar width */
+
+.c21{
+    width: 10.33%;
+    color:rgb(225, 34, 95);
+    background-color: rgb(195, 142, 89);
+    
+}
+.c22{
+    width: 10.43%;
+    color:rgb(174, 210, 30);
+    background-color: rgb(166, 15, 108);
+
+    
+}
+.c23{
+    width: 10.3%;
+    color:rgb(19, 6, 44);
+    background-color: rgb(232, 66, 25);
+    
+}
+.c24{
+    width: 5.3%;
+    color:rgb(85, 22, 212);
+    background-color: rgb(7, 119, 73);
+    
+}
+.c25{
+    width: 20%;
+    color:rgb(116, 244, 148);
+    background-color:rgb(231, 19, 22);
+    
+}
+.c26{
+    width: 15%;
+    color:rgb(116, 244, 148);
+    background-color: rgb(5, 18, 131);
+    
+}
+.c27{
+    width: 10%;
+    color:rgb(91, 26, 230);
+    background-color: rgb(206, 34, 154);
+    
+}
+.c28{
+    width: 5%;
+    color:rgb(174, 210, 30);
+   
+    background-color: rgb(7, 119, 73);
+    
+}
+
